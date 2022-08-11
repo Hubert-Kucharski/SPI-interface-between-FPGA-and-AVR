@@ -15,3 +15,8 @@ Wired circuit used for tests:
 
 Simulation for the FPGA part:
 ![spi_sim](spi_sim.png)
+
+
+
+https://user-images.githubusercontent.com/99823278/184111138-304802b9-253d-4474-9b2d-80ef49d08da7.mp4
+
